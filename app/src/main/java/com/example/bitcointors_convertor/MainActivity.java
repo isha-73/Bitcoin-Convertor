@@ -8,6 +8,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
     private TextView objText = null;
@@ -41,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
 
             // Display the converted Bitcoin value in the resultTextView
             resultTextView.setText(String.format("%.6f Bitcoin", bitcoinValue));
-            System.out.println(String.format("%.6f Bitcoin", bitcoinValue));
+            Toast.makeText(getApplicationContext(), "This is the total Bitcoin value of your entered amount", Toast.LENGTH_LONG).show();
         } else {
             // Handle the case where the input value is empty
             resultTextView.setText("Enter a value in INR");
