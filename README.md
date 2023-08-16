@@ -1,3 +1,3 @@
 # Bitcoin-Convertor
 
-<img src="https://github.com/isha-73/Bitcoin-Convertor/assets/87441080/973b7828-5fa5-488c-95ee-7e25c4b2eb6f" width="400" height="800" alt="Bitcoin Convertor Image">
+<img src="https://github.com/isha-73/Bitcoin-Convertor/assets/87441080/eaa99b12-72cf-41e6-9d59-1b463065382f" width="400"  alt="Bitcoin Convertor Image">
